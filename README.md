@@ -153,7 +153,10 @@ Oportunidades surgidas a través de los problemas encontrados.
 - Generar una unión entre la metodología Blended Learning de Innova Schools y el proceso de elección de carrera.
 - Aprovechar el uso de la tecnología para crear herramientas de seguimiento y orientación del estudiante. 
 
-### Propuestas de solución:
+## PROPUESTA DE SOLUCIÓN:
+
+Una platoforma para los estudiantes donde ellos puedan ver su desempeño académico y de acuerdo a ello realizar actividades y juego de roles como diversos profesionales.
+Así podrán experimentar y decidir mejor. Esta alternativa de solución considera que a la par se deben realizar charlas y ferias para que complementen la guía del estudiante.
 
 Para la solución se tomaron como base 3 conceptos: La metodología Blending Learning que utiliza Innova Schools, el proyecto Off Road y el Modelo RIASEC.
 
@@ -167,10 +170,6 @@ Para la solución se tomaron como base 3 conceptos: La metodología Blending Lea
 - Que el miedo no sea un obstáculo.
 
 3. Del Modelo RIASEC, su utilidad para determinar cuáles son los intereses y motivaciones profesionales que se ajusten más a la personalidad de la persona.  
-
-
-Una platoforma para los estudiantes donde ellos puedan ver su desempeño académico y de acuerdo a ello realizar actividades y juego de roles como diversos profesionales.
-Así podrán experimentar y decidir mejor. Esta alternativa de solución considera que a la par se deben realizar charlas y ferias para que complementen la guía del estudiante
 
 
 ## Prototipos:
