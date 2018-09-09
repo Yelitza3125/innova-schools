@@ -152,7 +152,7 @@ Para la solución se tomaron como base 3 conceptos: La metodología Blending, el
 
 ## **Prototipo**:
 
-[UX School](https://marvelapp.com/2h6dcj8/screen/41506597)
+[UX School](https://invis.io/3TNYBYGKQAM)
 
 
 ## **Herramientas utilizadas**:
@@ -161,3 +161,4 @@ Para la solución se tomaron como base 3 conceptos: La metodología Blending, el
 - Design Thinking
 - Figma
 - Marvel
+- Invision
