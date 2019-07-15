@@ -2,7 +2,7 @@
 
 Los alumnos de cuarto y quinto de secundaria, no saben que carrera escoger y necesitan una guía para encontrar el mejor camino para el futuro. En esta plataforma los estudiantes pueden, a través de su desempeño académico y la realización de actividades relacionadas con profesiones, decidir que carrera profesional deben elegir en el futuro.
 
-![prototipo](https://user-images.githubusercontent.com/32287220/39223231-69256808-4806-11e8-87df-0332cd5093b9.jpg)
+![ux-shool](https://user-images.githubusercontent.com/32287220/61249649-69a6b780-a71b-11e9-8396-1543dd429a81.png)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
