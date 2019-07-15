@@ -1,10 +1,11 @@
-# **Plataforma de Orientación al Estudiante.**
+# **Plataforma de Orientación al Estudiante**
+
+Los alumnos de cuarto y quinto de secundaria, no saben que carrera escoger y necesitan una guía para encontrar el mejor camino para el futuro. En esta plataforma los estudiantes pueden, a través de su desempeño académico y la realización de actividades relacionadas con profesiones, decidir que carrera profesional deben elegir en el futuro.
 
 ![prototipo](https://user-images.githubusercontent.com/32287220/39223231-69256808-4806-11e8-87df-0332cd5093b9.jpg)
 
-## Descripción del reto:
-
-Los alumnos de cuarto de secundaria, no saben que carrera escoger y necesitan una guía para encontrar el mejor camino para el futuro. 
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 
 ## Enfoque del proyecto:
