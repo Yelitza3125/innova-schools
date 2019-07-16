@@ -1,6 +1,6 @@
 # **Plataforma de Orientación al Estudiante**
 
-Los alumnos de cuarto y quinto de secundaria, no saben que carrera escoger y necesitan una guía para encontrar el mejor camino para el futuro. En esta plataforma los estudiantes pueden, a través de su desempeño académico y la realización de actividades relacionadas con profesiones, decidir que carrera profesional deben elegir en el futuro.
+Los alumnos de 4° y 5° de secundaria no saben que estudiar y necesitan una guía que los oriente. En esta plataforma, mediante su desempeño académico y el desarrollo de actividades relacionadas con profesiones, pueden decidir que carrera profesional estudiar.
 
 ![ux-shool](https://user-images.githubusercontent.com/32287220/61249649-69a6b780-a71b-11e9-8396-1543dd429a81.png)
 
